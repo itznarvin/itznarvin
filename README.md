@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there, I’m Narvin!
 
-<!--
-**itznarvin/itznarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Diploma in IT student  
+💻 I love coding random stuff just for fun (and learning!)  
+🌐 Passionate about both **front-end** and **back-end** development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Tech I Work With
+
+- **Front-End:** HTML, CSS, JavaScript  
+- **Back-End:** Python, SQL  
+- Always learning, always building 🔥
+
+---
+
+## 🧪 Current Goals
+
+- Mastering full-stack fundamentals  
+- Building cool personal projects  
+- Learning deeper JavaScript & Python concepts
+
+---
