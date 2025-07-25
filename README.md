@@ -26,5 +26,6 @@
 - Mastering full-stack fundamentals  
 - Building cool personal projects  
 - Learning deeper JavaScript & Python concepts
+- Getting into PHP language
 
 ---
